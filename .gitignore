@@ -1,0 +1,9 @@
+venv/
+src/__pycache__/
+*.pyc
+src/uploads/*
+src/txtfiles/*
+test
+vectorstore_S
+vectorstore_M
+vectorstore_L
